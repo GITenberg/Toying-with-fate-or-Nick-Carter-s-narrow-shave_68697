@@ -1,0 +1,30 @@
+_repo: Toying-with-fate-or-Nick-Carter-s-narrow-shave_68697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Nicholas (House name)
+    alias: Carter, Nick
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/43953
+    - http://www.gutenberg.org/ebooks/author/2983
+    - http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_issued: '2022-08-06'
+identifiers:
+  gutenberg: '68697'
+language: en
+pgterms:marc905: 20210123063233carter
+pgterms:marc906: '1903'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Street & Smith,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Toying with fate: or, Nick Carter''s narrow shave'
+url: http://www.gutenberg.org/ebooks/68697
